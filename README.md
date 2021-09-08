@@ -2,7 +2,7 @@
 
 ## Description
 
-Arduino Uno clone for mounting with GIRA 55 standard frames. A Siemens KNX bus coupler can be mounted on the back. There is also a temperature sensor at the front. Needs an ATMega368 with Arduino bootloader.
+Arduino Uno clone to wall-mount with *GIRA Standard 55* frames. A *Siemens KNX 5WG1117* bus coupler can be mounted on the back. There is also a temperature sensor at the front. Needs an ATMega368 with Arduino bootloader.
 
 **NOTICE: All brands mentioned are for explanation purposes only. This is NOT an official GIRA or Siemens product and just a pure DIY project.**
 

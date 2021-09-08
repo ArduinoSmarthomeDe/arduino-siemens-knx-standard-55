@@ -2,7 +2,7 @@
 
 ## Description
 
-
+Arduino Uno clone for mounting with GIRA 55 standard frames. A Siemens KNX bus coupler can be mounted on the back. There is also a temperature sensor at the front.
 
 **NOTICE: All brands mentioned are for explanation purposes only. This is not an official GIRA or Siemens product and just a pure DIY project.**
 
@@ -22,7 +22,7 @@ Some parts are a hard to come by, so here is a short overview of known distribut
 
 | Item      | Part                    | Link  |
 | --------- |:-----------------------:| ----- |
-| KNX BCU   | SIEMENS 5WG1117-2AB12   | https://www.voltus.de/?cl=details&anid=6d587e3f46216269029d510de0d89711&gclid=EAIaIQobChMIiJ2gydPv8gIVGgB7Ch0FXQQ6EAQYASABEgI48vD_BwE
+| KNX BCU   | SIEMENS 5WG1117-2AB12   | https://www.voltus.de/?cl=details&anid=6d587e3f46216269029d510de0d89711 |
 
 ## Layout & Production 
 

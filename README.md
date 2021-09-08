@@ -2,23 +2,19 @@
 
 ## Description
 
-Arduino Uno clone for mounting with GIRA 55 standard frames. A Siemens KNX bus coupler can be mounted on the back. There is also a temperature sensor at the front.
+Arduino Uno clone for mounting with GIRA 55 standard frames. A Siemens KNX bus coupler can be mounted on the back. There is also a temperature sensor at the front. Needs an ATMega368 with Arduino bootloader.
 
-**NOTICE: All brands mentioned are for explanation purposes only. This is not an official GIRA or Siemens product and just a pure DIY project.**
+**NOTICE: All brands mentioned are for explanation purposes only. This is NOT an official GIRA or Siemens product and just a pure DIY project.**
 
 *This is just a DIY board, so there is no official KNX stack to configure via the ETS software.*
 
 ## Preview
-
-A little look at the finished circuit board (3D model):
 
 ![](https://github.com/ArduinoSmarthomeDe/arduino-siemens-knx-standard-55/blob/main/preview-top.jpg)
 
 ![](https://github.com/ArduinoSmarthomeDe/arduino-siemens-knx-standard-55/blob/main/preview-bottom.jpg)
 
 ## Parts
-
-Some parts are a hard to come by, so here is a short overview of known distributors (no affiliates).
 
 | Item      | Part                    | Link  |
 | --------- |:-----------------------:| ----- |
